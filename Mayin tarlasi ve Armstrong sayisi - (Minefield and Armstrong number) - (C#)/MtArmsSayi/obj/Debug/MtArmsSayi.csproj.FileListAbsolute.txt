@@ -1,0 +1,23 @@
+C:\Users\kariyer\Desktop\couse\MtArmsSayi\MtArmsSayi\bin\Debug\MtArmsSayi.exe.config
+C:\Users\kariyer\Desktop\couse\MtArmsSayi\MtArmsSayi\bin\Debug\MtArmsSayi.exe
+C:\Users\kariyer\Desktop\couse\MtArmsSayi\MtArmsSayi\bin\Debug\MtArmsSayi.pdb
+C:\Users\kariyer\Desktop\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.csprojAssemblyReference.cache
+C:\Users\kariyer\Desktop\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.Form1.resources
+C:\Users\kariyer\Desktop\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.Properties.Resources.resources
+C:\Users\kariyer\Desktop\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.csproj.GenerateResource.cache
+C:\Users\kariyer\Desktop\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.csproj.CoreCompileInputs.cache
+C:\Users\kariyer\Desktop\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.exe
+C:\Users\kariyer\Desktop\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.pdb
+C:\Users\kariyer\Desktop\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.Form2.resources
+C:\Users\Cem\Desktop\mani mani mani\couse\MtArmsSayi\MtArmsSayi\bin\Debug\MtArmsSayi.exe.config
+C:\Users\Cem\Desktop\mani mani mani\couse\MtArmsSayi\MtArmsSayi\bin\Debug\MtArmsSayi.exe
+C:\Users\Cem\Desktop\mani mani mani\couse\MtArmsSayi\MtArmsSayi\bin\Debug\MtArmsSayi.pdb
+C:\Users\Cem\Desktop\mani mani mani\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\mani mani mani\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cem\Desktop\mani mani mani\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.Form1.resources
+C:\Users\Cem\Desktop\mani mani mani\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.Form2.resources
+C:\Users\Cem\Desktop\mani mani mani\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.Properties.Resources.resources
+C:\Users\Cem\Desktop\mani mani mani\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.csproj.GenerateResource.cache
+C:\Users\Cem\Desktop\mani mani mani\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\mani mani mani\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.exe
+C:\Users\Cem\Desktop\mani mani mani\couse\MtArmsSayi\MtArmsSayi\obj\Debug\MtArmsSayi.pdb

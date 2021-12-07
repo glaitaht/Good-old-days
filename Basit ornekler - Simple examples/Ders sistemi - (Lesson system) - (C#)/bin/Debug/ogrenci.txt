@@ -1,0 +1,10 @@
+Can,Yılmaz,05559998844,can@gmail.com,Bilgisayar Mühendisliği,AA
+Cem,Yılmaz,05338885522,cem@gmail.com,Yazılım Mühendisliği,EE
+Ali,Yılmaz,05559998844,ali@gmail.com,Bilgisayar Mühendisliği,BB
+Seda,Yılmaz,05338885522,seda@gmail.com,Yazılım Mühendisliği,CC
+Cem,Yılmaz,05338885522,cemiki@gmail.com,Yazılım Mühendisliği,DD
+Pınar,Yılmaz,05559998844,pinar@gmail.com,Bilgisayar Mühendisliği,FF
+Kamil,Yılmaz,05338885522,kamil@gmail.com,Yazılım Mühendisliği,GG
+Ahmet,Yılmaz,05338885522,ahmet@gmail.com,Yazılım Mühendisliği,VV
+Kaya,Yılmaz,05559998844,kaya@gmail.com,Bilgisayar Mühendisliği,ZZ
+Yosun,Yılmaz,05338885522,yosun@gmail.com,Yazılım Mühendisliği,XX

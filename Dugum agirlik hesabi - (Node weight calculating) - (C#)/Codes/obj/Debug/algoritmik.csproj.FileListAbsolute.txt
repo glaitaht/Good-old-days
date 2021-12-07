@@ -1,0 +1,20 @@
+C:\Users\kariyer\Desktop\algoritmik\algoritmik\obj\Debug\algoritmik.csprojAssemblyReference.cache
+C:\Users\kariyer\Desktop\algoritmik\algoritmik\obj\Debug\algoritmik.Form1.resources
+C:\Users\kariyer\Desktop\algoritmik\algoritmik\obj\Debug\algoritmik.Properties.Resources.resources
+C:\Users\kariyer\Desktop\algoritmik\algoritmik\obj\Debug\algoritmik.csproj.GenerateResource.cache
+C:\Users\kariyer\Desktop\algoritmik\algoritmik\obj\Debug\algoritmik.csproj.CoreCompileInputs.cache
+C:\Users\kariyer\Desktop\algoritmik\algoritmik\bin\Debug\algoritmik.exe.config
+C:\Users\kariyer\Desktop\algoritmik\algoritmik\bin\Debug\algoritmik.exe
+C:\Users\kariyer\Desktop\algoritmik\algoritmik\bin\Debug\algoritmik.pdb
+C:\Users\kariyer\Desktop\algoritmik\algoritmik\obj\Debug\algoritmik.exe
+C:\Users\kariyer\Desktop\algoritmik\algoritmik\obj\Debug\algoritmik.pdb
+C:\Users\kariyer\Desktop\mani mani mani\algoritmik\algoritmik\bin\Debug\algoritmik.exe.config
+C:\Users\kariyer\Desktop\mani mani mani\algoritmik\algoritmik\bin\Debug\algoritmik.exe
+C:\Users\kariyer\Desktop\mani mani mani\algoritmik\algoritmik\bin\Debug\algoritmik.pdb
+C:\Users\kariyer\Desktop\mani mani mani\algoritmik\algoritmik\obj\Debug\algoritmik.csprojAssemblyReference.cache
+C:\Users\kariyer\Desktop\mani mani mani\algoritmik\algoritmik\obj\Debug\algoritmik.Form1.resources
+C:\Users\kariyer\Desktop\mani mani mani\algoritmik\algoritmik\obj\Debug\algoritmik.Properties.Resources.resources
+C:\Users\kariyer\Desktop\mani mani mani\algoritmik\algoritmik\obj\Debug\algoritmik.csproj.GenerateResource.cache
+C:\Users\kariyer\Desktop\mani mani mani\algoritmik\algoritmik\obj\Debug\algoritmik.csproj.CoreCompileInputs.cache
+C:\Users\kariyer\Desktop\mani mani mani\algoritmik\algoritmik\obj\Debug\algoritmik.exe
+C:\Users\kariyer\Desktop\mani mani mani\algoritmik\algoritmik\obj\Debug\algoritmik.pdb

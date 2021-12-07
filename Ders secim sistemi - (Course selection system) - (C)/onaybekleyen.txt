@@ -1,0 +1,3 @@
+12345678901 MM2019 yatirilmamis 114F,115F,131T,133T,135T,136T,                                                                     
+12345678901 MM2019 yatirilmamis 114F,115F,131T,133T,134T,136T,
+11223334455 MM2020 yatirilmis 111F,112F,113F,114F,115F,116F,

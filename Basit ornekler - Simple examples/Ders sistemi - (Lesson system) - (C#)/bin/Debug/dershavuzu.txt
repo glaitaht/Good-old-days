@@ -1,0 +1,10 @@
+22,Türk dili II
+23,İnkılap II
+24,İngilizce II
+25,Fizik II
+31,Kimya II
+34,Bilgisayar Mühendisliğine Giriş
+43,Lineer Cebir
+53,Edebiyat
+55,Muhasebe
+66,Hukuk II

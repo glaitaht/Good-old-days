@@ -1,0 +1,29 @@
+C:\Users\kariyer\Desktop\ogrencioto\ogrencioto\bin\Debug\ogrencioto.exe.config
+C:\Users\kariyer\Desktop\ogrencioto\ogrencioto\bin\Debug\ogrencioto.exe
+C:\Users\kariyer\Desktop\ogrencioto\ogrencioto\bin\Debug\ogrencioto.pdb
+C:\Users\kariyer\Desktop\ogrencioto\ogrencioto\obj\Debug\ogrencioto.csprojAssemblyReference.cache
+C:\Users\kariyer\Desktop\ogrencioto\ogrencioto\obj\Debug\ogrencioto.Form1.resources
+C:\Users\kariyer\Desktop\ogrencioto\ogrencioto\obj\Debug\ogrencioto.Properties.Resources.resources
+C:\Users\kariyer\Desktop\ogrencioto\ogrencioto\obj\Debug\ogrencioto.csproj.GenerateResource.cache
+C:\Users\kariyer\Desktop\ogrencioto\ogrencioto\obj\Debug\ogrencioto.csproj.CoreCompileInputs.cache
+C:\Users\kariyer\Desktop\ogrencioto\ogrencioto\obj\Debug\ogrencioto.exe
+C:\Users\kariyer\Desktop\ogrencioto\ogrencioto\obj\Debug\ogrencioto.pdb
+C:\Users\kariyer\Desktop\ogrencioto\ogrencioto\obj\Debug\ogrencioto.Form2.resources
+C:\Users\kariyer\Desktop\ogrencioto\ogrencioto\obj\Debug\ogrencioto.Form3.resources
+C:\Users\kariyer\Desktop\ogrencioto\ogrencioto\obj\Debug\ogrencioto.Form4.resources
+C:\Users\kariyer\Desktop\ogrencioto\ogrencioto\obj\Debug\ogrencioto.Form5.resources
+C:\Users\Cem\Desktop\mani mani mani\ogrencioto\ogrencioto\bin\Debug\ogrencioto.exe.config
+C:\Users\Cem\Desktop\mani mani mani\ogrencioto\ogrencioto\bin\Debug\ogrencioto.exe
+C:\Users\Cem\Desktop\mani mani mani\ogrencioto\ogrencioto\bin\Debug\ogrencioto.pdb
+C:\Users\Cem\Desktop\mani mani mani\ogrencioto\ogrencioto\obj\Debug\ogrencioto.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\mani mani mani\ogrencioto\ogrencioto\obj\Debug\ogrencioto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cem\Desktop\mani mani mani\ogrencioto\ogrencioto\obj\Debug\ogrencioto.Form1.resources
+C:\Users\Cem\Desktop\mani mani mani\ogrencioto\ogrencioto\obj\Debug\ogrencioto.Form2.resources
+C:\Users\Cem\Desktop\mani mani mani\ogrencioto\ogrencioto\obj\Debug\ogrencioto.Form3.resources
+C:\Users\Cem\Desktop\mani mani mani\ogrencioto\ogrencioto\obj\Debug\ogrencioto.Form4.resources
+C:\Users\Cem\Desktop\mani mani mani\ogrencioto\ogrencioto\obj\Debug\ogrencioto.Form5.resources
+C:\Users\Cem\Desktop\mani mani mani\ogrencioto\ogrencioto\obj\Debug\ogrencioto.Properties.Resources.resources
+C:\Users\Cem\Desktop\mani mani mani\ogrencioto\ogrencioto\obj\Debug\ogrencioto.csproj.GenerateResource.cache
+C:\Users\Cem\Desktop\mani mani mani\ogrencioto\ogrencioto\obj\Debug\ogrencioto.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\mani mani mani\ogrencioto\ogrencioto\obj\Debug\ogrencioto.exe
+C:\Users\Cem\Desktop\mani mani mani\ogrencioto\ogrencioto\obj\Debug\ogrencioto.pdb

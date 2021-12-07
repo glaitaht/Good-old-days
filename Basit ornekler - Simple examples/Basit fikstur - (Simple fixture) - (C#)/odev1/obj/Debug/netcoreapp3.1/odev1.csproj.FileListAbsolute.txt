@@ -1,0 +1,13 @@
+C:\Users\kariyer\Desktop\1. ödev c#\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.exe
+C:\Users\kariyer\Desktop\1. ödev c#\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.deps.json
+C:\Users\kariyer\Desktop\1. ödev c#\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.runtimeconfig.json
+C:\Users\kariyer\Desktop\1. ödev c#\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.runtimeconfig.dev.json
+C:\Users\kariyer\Desktop\1. ödev c#\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.dll
+C:\Users\kariyer\Desktop\1. ödev c#\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.pdb
+C:\Users\kariyer\Desktop\1. ödev c#\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.csprojAssemblyReference.cache
+C:\Users\kariyer\Desktop\1. ödev c#\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.csproj.CoreCompileInputs.cache
+C:\Users\kariyer\Desktop\1. ödev c#\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.AssemblyInfoInputs.cache
+C:\Users\kariyer\Desktop\1. ödev c#\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.AssemblyInfo.cs
+C:\Users\kariyer\Desktop\1. ödev c#\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.dll
+C:\Users\kariyer\Desktop\1. ödev c#\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.pdb
+C:\Users\kariyer\Desktop\1. ödev c#\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.genruntimeconfig.cache
